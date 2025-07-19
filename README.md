@@ -1,6 +1,7 @@
 # Fine Tuning Segmentation Framework
 
 ![fig2](results.jpg)
+<img src="results.jpg" width="500" height="300">
 
 **Background**
 This notebook presents a comprehensive framework for semantic segmentation tasks, with a focus on fine-tuning models on the ISPRS dataset. The core structure is organized into functional and class-based modules for data management and model training, followed by the main training script in the final section. You may skip the first two sections and go directly to the main training script to understand the overall training process. If you need further details, feel free to refer back to the corresponding functions or classes as needed.
